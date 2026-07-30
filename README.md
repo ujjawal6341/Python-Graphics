@@ -56,3 +56,5 @@ The primary objectives of this project are to:
 * Anyone curious about creating images and animations with code
 
 > *"Every image begins as logic, every pattern begins as mathematics, and somehow humans decided that was beautiful."*
+
+
